@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T18:30:00.529Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="30E5fe0gVmA-zuac-U2f" version="14.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-16T18:30:15.176Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="XO73aaH56FsOvJ_D6VjQ" version="14.3.1" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2146" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="3Sa6O5D4K2Z7BfHcEVfZ-11" value="&lt;font style=&quot;font-size: 14px&quot;&gt;View Review&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="1030" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3Sa6O5D4K2Z7BfHcEVfZ-12" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Tip into account&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3Sa6O5D4K2Z7BfHcEVfZ-12" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Access Tip in Wallet&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="505" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3Sa6O5D4K2Z7BfHcEVfZ-13" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Click Review&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
