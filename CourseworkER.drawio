@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-19T10:14:03.429Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="_ZRsI7udllPwCf_fdOSe" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-19T10:27:11.250Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="i5Vy74QQZCBq8j3yNXQ7" version="14.6.11" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1546" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1906" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -121,7 +121,7 @@
         <mxCell id="tec0AdsLStdLGlxZFu5D-12" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="tec0AdsLStdLGlxZFu5D-11">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tec0AdsLStdLGlxZFu5D-13" value="FK" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" vertex="1" parent="tec0AdsLStdLGlxZFu5D-12">
+        <mxCell id="tec0AdsLStdLGlxZFu5D-13" value="PK" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" vertex="1" parent="tec0AdsLStdLGlxZFu5D-12">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tec0AdsLStdLGlxZFu5D-14" value="Listingid, userid" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" vertex="1" parent="tec0AdsLStdLGlxZFu5D-12">
@@ -151,7 +151,7 @@
         <mxCell id="tec0AdsLStdLGlxZFu5D-22" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="tec0AdsLStdLGlxZFu5D-21">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tec0AdsLStdLGlxZFu5D-23" value="FK" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" vertex="1" parent="tec0AdsLStdLGlxZFu5D-22">
+        <mxCell id="tec0AdsLStdLGlxZFu5D-23" value="PK" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" vertex="1" parent="tec0AdsLStdLGlxZFu5D-22">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tec0AdsLStdLGlxZFu5D-24" value="Listingid, Recieverid" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" vertex="1" parent="tec0AdsLStdLGlxZFu5D-22">
