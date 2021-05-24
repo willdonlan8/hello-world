@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-24T16:03:26.562Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="CLEMXcaNcDcVndz-sU2G" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-24T16:04:33.437Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="KRHakBakDKQEy2SXYcsT" version="14.6.13" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1906" dy="1046" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -202,7 +202,7 @@
         <mxCell id="tec0AdsLStdLGlxZFu5D-39" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="tec0AdsLStdLGlxZFu5D-38" vertex="1">
           <mxGeometry width="30" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="tec0AdsLStdLGlxZFu5D-40" value="Loan/Borrow&#xa;Active&#xa;due date" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="tec0AdsLStdLGlxZFu5D-38" vertex="1">
+        <mxCell id="tec0AdsLStdLGlxZFu5D-40" value="borrow: BOOL&#xa;active: BOOL (can be null)&#xa;duedate: DATETIME" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="tec0AdsLStdLGlxZFu5D-38" vertex="1">
           <mxGeometry x="30" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tec0AdsLStdLGlxZFu5D-44" value="" style="endArrow=classic;html=1;" parent="1" source="C-vyLk0tnHw3VtMMgP7b-27" edge="1">
